@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+image-gallery-app-react-main/npm-debug.log*
+image-gallery-app-react-main/yarn-debug.log*
+image-gallery-app-react-main/yarn-error.log*
+image-gallery-app-react-main/pnpm-debug.log*
+image-gallery-app-react-main/lerna-debug.log*
+
+image-gallery-app-react-main/node_modules
+backend/node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+image-gallery-app-react-main/.vscode/*
+image-gallery-app-react-main/!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
